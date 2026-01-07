@@ -75,26 +75,6 @@
 
 ---
 
-## 📊 GitHub Power Stats
-
-<div align="center" style="background: linear-gradient(135deg, #0f172a 0%, #111827 100%); padding: 25px 30px; border-radius: 24px; border: 1px solid rgba(59,130,246,0.4); box-shadow: 0 20px 60px rgba(15,23,42,0.65); max-width: 900px; margin: auto;">
-  <h3 style="color:#3b82f6; letter-spacing:1px; margin:0 0 18px 0;">
-    ⚙️ Quantum Dev Console
-  </h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=arslan-ashraf&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="170" style="margin: 8px;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arslan-ashraf&theme=radical&hide_border=true&background=0D1117" height="170" style="margin: 8px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arslan-ashraf&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="160" style="margin: 8px;"/>
-</div>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arslan-ashraf&theme=dracula&margin-w=10&row=1" />
-</p>
-
----
 
 ## 🌐 Connect & Collaborate
 
