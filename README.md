@@ -22,7 +22,7 @@
 
 ---
 
-## 🚀 About Arslan
+## About Arslan
 
 <div align="center">
   <img src="https://github.com/Arslan-hub-dev/assets/blob/main/cyber-grid.gif?raw=true" width="100%" alt="Neon Grid"/>
@@ -105,10 +105,10 @@
 
 <div align="center" style="margin: 0 auto; max-width: 600px; padding: 20px; border-radius: 18px; background: linear-gradient(135deg, rgba(15,23,42,0.9), rgba(9,9,20,0.95)); border: 1px solid rgba(59,130,246,0.4); box-shadow: 0 15px 40px rgba(0,0,0,0.65);">
   <p style="font-size: 1.1rem; color: #E2E8F0;">
-    <strong>📧 Email:</strong> <a href="mailto:arslanrajput070@gmail.com" style="color: #38BDF8;">arslanrajput070@gmail.com</a>
+    <strong> Email:</strong> <a href="mailto:arslanrajput070@gmail.com" style="color: #38BDF8;">arslanrajput070@gmail.com</a>
   </p>
   <p style="font-size: 1.05rem; color: #E2E8F0;">
-    <strong>💬 DMs Open:</strong> LinkedIn & Instagram for collaborations, freelance projects, and consulting.
+    <strong> DMs Open:</strong> LinkedIn & Instagram for collaborations, freelance projects, and consulting.
   </p>
 </div>
 
