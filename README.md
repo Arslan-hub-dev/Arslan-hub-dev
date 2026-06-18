@@ -116,7 +116,7 @@
   <img src="https://github.com/Arslan-hub-dev/assets/blob/main/gradient-divider.gif?raw=true" width="80%" />
 </p>
 
-<h3 align="center">⭐ If you vibe with my work, drop a star on the repos!</h3>
+<h3 align="center"> If you vibe with my work, drop a star on the repos!</h3>
 
 <p align="center">
   <img src="https://github.com/Arslan-hub-dev/assets/blob/main/retro-wave.gif?raw=true" width="100%" />
