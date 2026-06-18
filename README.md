@@ -4,7 +4,7 @@
   <img src="https://github.com/Arslan-hub-dev/assets/blob/main/hero-wave.gif?raw=true" width="100%" alt="Hero Wave"/>
 </p>
 
-<h1 align="center">⚡ Arslan Ashraf ⚡</h1>
+<h1 align="center"> Arslan Ashraf </h1>
 
 <h3 align="center">
   Full Stack Developer • Flutter Craftsman • AI Chatbot Engineer
@@ -59,7 +59,7 @@
 
 ---
 
-## 🛠️ Tech Stack (Animated Ultra Mode)
+##  Tech Stack (Animated Ultra Mode)
 
 <div align="center">
 
@@ -76,7 +76,7 @@
 ---
 
 
-## 🌐 Connect & Collaborate
+## Connect & Collaborate
 
 <p align="center">
   <a href="https://www.linkedin.com/in/arslan-rajput" title="LinkedIn - Arslan Ashraf">
@@ -101,7 +101,7 @@
 
 ---
 
-## 📩 Contact
+## Contact
 
 <div align="center" style="margin: 0 auto; max-width: 600px; padding: 20px; border-radius: 18px; background: linear-gradient(135deg, rgba(15,23,42,0.9), rgba(9,9,20,0.95)); border: 1px solid rgba(59,130,246,0.4); box-shadow: 0 15px 40px rgba(0,0,0,0.65);">
   <p style="font-size: 1.1rem; color: #E2E8F0;">
